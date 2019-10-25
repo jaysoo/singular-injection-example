@@ -8,10 +8,16 @@
     "nx.json": "*"
   },
   "projects": {
-    "demo-e2e": {
+    "demo": {
       "tags": []
     },
-    "demo": {
+    "module-a": {
+      "tags": []
+    },
+    "module-c": {
+      "tags": []
+    },
+    "module-b": {
       "tags": []
     }
   }
